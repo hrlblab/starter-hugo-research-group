@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
+title: HRLB Lab # Website name
 baseurl: 'https://hrlblab.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'hrlblab@gmail.com' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
