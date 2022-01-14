@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 10
 
 title:
 subtitle:
@@ -18,14 +18,14 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: laboverview.png
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
-    text_color_light: true
+    image_size: contain
+    text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["260px", "0", "0", "0"]
 advanced:
-  css_class: fullscreen
+  css_class: fit 
 ---
