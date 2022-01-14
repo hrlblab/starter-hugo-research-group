@@ -37,7 +37,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: https://drive.google.com/open?id=0Bzzeqiij2Zarb2t3bXFhRTFJQ28
+  link: https://drive.google.com/file/d/0Bzzeqiij2Zarb2t3bXFhRTFJQ28/view?usp=sharing&resourcekey=0-XwC47bBIG443Ehkl5z1JxQ
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=WRxmxNgAAAAJ&hl=en
