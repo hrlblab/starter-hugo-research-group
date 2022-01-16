@@ -9,7 +9,7 @@ authors:
 - Vishwesh Nath
 - Riqiang Gao
 - Camilo Bermudez
-- Yuankai Huo
+- admin
 - Kim L Sandler
 - Pierre P Massion
 - Jeffrey D Blume

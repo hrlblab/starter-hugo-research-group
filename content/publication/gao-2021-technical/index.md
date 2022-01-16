@@ -11,7 +11,7 @@ authors:
 - Yucheng Tang
 - Kaiwen Xu
 - Steve Deppen
-- Yuankai Huo
+- admin
 - Kim L Sandler
 - Pierre P Massion
 - Bennett A Landman

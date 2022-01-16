@@ -26,3 +26,5 @@ design:
 advanced:
   css_class: fullscreen
 ---
+
+# Contact Information

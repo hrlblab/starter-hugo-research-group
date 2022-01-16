@@ -5,10 +5,10 @@ title: An adaptive threshold for the Canny Operator of edge detection
 subtitle: ''
 summary: ''
 authors:
-- Yuan-Kai Huo
+- Yuankai Huo
 - Gen Wei
-- Yu-Dong Zhang
-- Le-Nan Wu
+- Yudong Zhang
+- Lenan Wu
 tags: []
 categories: []
 date: '2010-01-01'

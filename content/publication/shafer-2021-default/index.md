@@ -10,7 +10,7 @@ authors:
 - Lori Beason-Held
 - Yang An
 - Owen A Williams
-- Yuankai Huo
+- admin
 - Bennett A Landman
 - Brian S Caffo
 - Susan M Resnick

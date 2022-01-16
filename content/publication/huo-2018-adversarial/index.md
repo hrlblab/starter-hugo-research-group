@@ -6,7 +6,7 @@ title: Adversarial synthesis learning enables segmentation without target modali
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Zhoubing Xu
 - Shunxing Bao
 - Albert Assad

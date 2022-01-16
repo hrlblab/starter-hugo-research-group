@@ -13,7 +13,7 @@ authors:
 - Austin N Southard-Smith
 - Ho Hin Lee
 - Marisol A Ramirez
-- Yuankai Huo
+- admin
 - Mary K Washington
 - Elizabeth A Scoville
 - ' others'

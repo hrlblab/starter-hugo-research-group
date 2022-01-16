@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Hyeonsoo Moon
-- Yuankai Huo
+- admin
 - Richard G Abramson
 - Richard Alan Peters
 - Albert Assad

@@ -11,7 +11,7 @@ authors:
 - Kurt G Schilling
 - Prasanna Parvathaneni
 - Colin B Hansen
-- Yuankai Huo
+- admin
 - Vaibhav A Janve
 - Yurui Gao
 - Iwona Stepniewska

@@ -9,7 +9,7 @@ authors:
 - Bowen Li
 - Ke Yan
 - Dar-In Tai
-- Yuankai Huo
+- admin
 - Le Lu
 - Jing Xiao
 - Adam P Harrison

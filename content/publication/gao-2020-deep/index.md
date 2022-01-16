@@ -11,7 +11,7 @@ authors:
 - Yucheng Tang
 - Sanja L Antic
 - Alexis B Paulson
-- Yuankai Huo
+- admin
 - Kim L Sandler
 - Pierre P Massion
 - Bennett A Landman

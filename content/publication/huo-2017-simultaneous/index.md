@@ -6,7 +6,7 @@ title: Simultaneous total intracranial volume and posterior fossa volume estimat
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Andrew J Asman
 - Andrew J Plassard
 - Bennett A Landman

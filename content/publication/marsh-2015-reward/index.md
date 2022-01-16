@@ -9,7 +9,7 @@ authors:
 - Rachel Marsh
 - Gregory Z Tau
 - Zhishun Wang
-- Yuankai Huo
+- admin
 - Ge Liu
 - Xuejun Hao
 - Mark G Packard

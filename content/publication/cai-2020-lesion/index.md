@@ -10,7 +10,7 @@ authors:
 - Adam P Harrison
 - Youjing Zheng
 - Ke Yan
-- Yuankai Huo
+- admin
 - Jing Xiao
 - Lin Yang
 - Le Lu

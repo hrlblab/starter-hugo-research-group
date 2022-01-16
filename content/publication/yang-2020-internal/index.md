@@ -10,7 +10,7 @@ authors:
 - Yucheng Tang
 - Sanja L Antic
 - Steve Deppen
-- Yuankai Huo
+- admin
 - Kim L Sandler
 - Pierre P Massion
 - Bennett A Landman

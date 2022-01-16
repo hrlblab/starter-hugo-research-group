@@ -6,7 +6,7 @@ title: Harvesting, detecting, and characterizing liver lesions from large-scale 
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Jinzheng Cai
 - Chi-Tung Cheng
 - Ashwin Raju

@@ -2,7 +2,11 @@
 title: Publications
 view: 4
 
+
 header:
-  caption: ""
-  image: ""
+  caption: "research"
+  image: "theme.png"
+  
 ---
+
+

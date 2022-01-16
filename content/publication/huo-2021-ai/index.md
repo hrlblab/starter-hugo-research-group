@@ -5,7 +5,7 @@ title: AI applications in renal pathology
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Ruining Deng
 - Quan Liu
 - Agnes B Fogo

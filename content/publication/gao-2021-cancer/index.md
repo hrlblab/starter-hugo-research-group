@@ -11,7 +11,7 @@ authors:
 - Kaiwen Xu
 - Alexis B Paulson
 - Shelbi Sullivan
-- Yuankai Huo
+- admin
 - Stephen Deppen
 - Pierre P Massion
 - Kim L Sandler

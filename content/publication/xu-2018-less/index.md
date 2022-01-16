@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Zhoubing Xu
-- Yuankai Huo
+- admin
 - JinHyeong Park
 - Bennett Landman
 - Andy Milkowski

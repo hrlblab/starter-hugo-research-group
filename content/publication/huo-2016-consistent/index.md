@@ -5,7 +5,7 @@ title: Consistent cortical reconstruction and multi-atlas brain segmentation
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Andrew J Plassard
 - Aaron Carass
 - Susan M Resnick

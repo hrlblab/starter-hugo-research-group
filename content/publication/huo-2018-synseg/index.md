@@ -5,7 +5,7 @@ title: 'Synseg-net: Synthetic segmentation without target modality ground truth'
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Zhoubing Xu
 - Hyeonsoo Moon
 - Shunxing Bao
@@ -25,9 +25,10 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Your caption here.'
   focal_point: ''
-  preview_only: false
+  preview_only: true
+
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

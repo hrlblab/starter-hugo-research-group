@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Prasanna Parvathaneni
 - Ilwoo Lyu
-- Yuankai Huo
+- admin
 - Baxter P Rogers
 - Kurt G Schilling
 - Vishwesh Nath

@@ -6,7 +6,7 @@ title: Splenomegaly segmentation using global convolutional kernels and conditio
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Zhoubing Xu
 - Shunxing Bao
 - Camilo Bermudez

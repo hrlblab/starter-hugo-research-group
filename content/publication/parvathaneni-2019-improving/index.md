@@ -9,7 +9,7 @@ authors:
 - Prasanna Parvathaneni
 - Vishwesh Nath
 - Maureen McHugo
-- Yuankai Huo
+- admin
 - Susan M Resnick
 - Neil D Woodward
 - Bennett A Landman

@@ -5,17 +5,17 @@ title: Random Multi-Channel Image Synthesis for Multiplexed Immunofluorescence I
 subtitle: ''
 summary: ''
 authors:
-- Y Bao
-- S amd Tang
+- Shunxing Bao
+- Yucheng Tang
 - Ho Hin Lee
 - Riqiang Gao
 - Sophie Chiron
 - Ilwoo Lyu
 - Lori A Coburn
 - Keith T Wilson
-- JR Roland
+- Joe R Roland
 - Bennett A Landman
-- ' others'
+- admin
 tags: []
 categories: []
 date: '2021-01-01'

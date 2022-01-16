@@ -13,7 +13,7 @@ authors:
 - James Terry
 - Udo Hoffmann
 - Lifang Hou
-- Yuankai Huo
+- admin
 - Joseph Palmisano
 - Yinan Zheng
 - ' others'

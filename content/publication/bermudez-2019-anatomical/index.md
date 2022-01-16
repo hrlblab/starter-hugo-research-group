@@ -8,7 +8,7 @@ authors:
 - Camilo Bermudez
 - Andrew J Plassard
 - Shikha Chaganti
-- Yuankai Huo
+- admin
 - Katherine S Aboud
 - Laurie E Cutting
 - Susan M Resnick

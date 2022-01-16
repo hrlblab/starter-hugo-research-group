@@ -10,7 +10,7 @@ authors:
 - Yucheng Tang
 - Riqiang Gao
 - Shunxing Bao
-- Yuankai Huo
+- admin
 - Matthew T McKenna
 - Michael R Savona
 - Richard G Abramson

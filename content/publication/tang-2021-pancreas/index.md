@@ -12,7 +12,7 @@ authors:
 - Xin Yu
 - Yuyin Zhou
 - Shunxing Bao
-- Yuankai Huo
+- admin
 - Jeffrey Spraggins
 - Jack Virostko
 - ' others'

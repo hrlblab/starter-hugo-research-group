@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jay Desai
-- Yuankai Huo
+- admin
 - Zhishun Wang
 - Ravi Bansal
 - Steven CR Williams

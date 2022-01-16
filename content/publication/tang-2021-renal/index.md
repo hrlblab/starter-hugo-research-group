@@ -12,7 +12,7 @@ authors:
 - Zhoubing Xu
 - Brent V Savoie
 - Shunxing Bao
-- Yuankai Huo
+- admin
 - Agnes B Fogo
 - Raymond Harris
 - Mark P de Caestecker

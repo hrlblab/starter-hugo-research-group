@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuankai Huo, PhD
+title: Yuankai Huo
 
 # Is this the primary user of the site?
 superuser: true

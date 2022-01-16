@@ -2,7 +2,7 @@
 
 widget: slider
 headless: true  # This file represents a page section.
-weight: 5  # Order that this section will appear.
+weight: 1  # Order that this section will appear.
 
 # ... Put Your Section Options Here (section position etc.) ...
 
@@ -60,3 +60,4 @@ item:
     image_position: center
     image_size: cover
 ---
+test1

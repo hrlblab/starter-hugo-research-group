@@ -11,7 +11,7 @@ authors:
 - Prasanna Parvathaneni
 - Colin B Hansen
 - Allison E Hainline
-- Yuankai Huo
+- admin
 - Justin A Blaber
 - Ilwoo Lyu
 - Vaibhav Janve

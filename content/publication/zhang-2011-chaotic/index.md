@@ -8,7 +8,7 @@ authors:
 - Yudong Zhang
 - Lenan Wu
 - Shuihua Wang
-- Yuankai Huo
+- admin
 tags: []
 categories: []
 date: '2011-01-01'

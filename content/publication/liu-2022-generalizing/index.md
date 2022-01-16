@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Yue Liu
-- Yuankai Huo
+- admin
 - Blake Dewey
 - Ying Wei
 - Ilwoo Lyu

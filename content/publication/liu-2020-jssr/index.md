@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Fengze Liu
 - Jinzheng Cai
-- Yuankai Huo
+- admin
 - Chi-Tung Cheng
 - Ashwin Raju
 - Dakai Jin

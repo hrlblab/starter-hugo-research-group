@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: yuankai dot huo at vanderbilt dot edu
+phone: (+1) 615-343-5449
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 24th Avenue South, Room 376
+  city: Nashville
+  region: TN
+  postcode: '37212'
   country: United States
   country_code: US
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '36.1447263128561'
+  longitude: '-86.80350647051144'
+directions: Enter FGH and take the stairs to Office 376 on Floor 4
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -72,7 +72,7 @@ show_related:
   publication: true
   talk: true
 reading_time: true
-section_pager: false
+section_pager: true
 sharing: true
 copyright_license:
   enable: false

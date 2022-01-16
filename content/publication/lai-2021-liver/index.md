@@ -12,7 +12,7 @@ authors:
 - Xiao-Yun Zhou
 - Peng Wang
 - Jinzheng Cai
-- Yuankai Huo
+- admin
 - Lingyun Huang
 - Yong Xia
 - Jing Xiao

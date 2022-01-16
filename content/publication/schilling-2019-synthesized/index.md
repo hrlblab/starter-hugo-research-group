@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Kurt G Schilling
 - Justin Blaber
-- Yuankai Huo
+- admin
 - Allen Newton
 - Colin Hansen
 - Vishwesh Nath

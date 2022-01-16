@@ -11,7 +11,7 @@ authors:
 - Shunxing Bao
 - Yucheng Tang
 - Steve A Deppen
-- Yuankai Huo
+- admin
 - Kim L Sandler
 - Pierre P Massion
 - Mattias P Heinrich

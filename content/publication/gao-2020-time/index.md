@@ -8,7 +8,7 @@ authors:
 - Riqiang Gao
 - Yucheng Tang
 - Kaiwen Xu
-- Yuankai Huo
+- admin
 - Shunxing Bao
 - Sanja L Antic
 - Emily S Epstein

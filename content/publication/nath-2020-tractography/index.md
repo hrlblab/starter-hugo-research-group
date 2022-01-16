@@ -9,7 +9,7 @@ authors:
 - Vishwesh Nath
 - Kurt G Schilling
 - Prasanna Parvathaneni
-- Yuankai Huo
+- admin
 - Justin A Blaber
 - Allison E Hainline
 - Muhamed Barakovic

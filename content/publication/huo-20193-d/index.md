@@ -5,7 +5,7 @@ title: 3D whole brain segmentation using spatially localized atlas network tiles
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Zhoubing Xu
 - Yunxi Xiong
 - Katherine Aboud

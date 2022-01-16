@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Teaching History
 
 # View.
 #   1 = List

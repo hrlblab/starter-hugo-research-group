@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Ashwin Raju
 - Chi-Tung Cheng
-- Yuankai Huo
+- admin
 - Jinzheng Cai
 - Junzhou Huang
 - Jing Xiao

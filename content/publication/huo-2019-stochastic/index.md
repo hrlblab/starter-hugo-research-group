@@ -5,7 +5,7 @@ title: Stochastic tissue window normalization of deep learning on computed tomog
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - Yucheng Tang
 - Yunqiang Chen
 - Dashan Gao

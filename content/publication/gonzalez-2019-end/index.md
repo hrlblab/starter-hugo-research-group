@@ -6,14 +6,14 @@ title: An end to end automated pipeline for brain structure segmentation in mult
 subtitle: ''
 summary: ''
 authors:
-- S Gonzalez-Villa
-- S Valverde
+- Sandra Gonzalez-Villa
+- Sergi Valverde
 - M Cabezas
-- Y Huo
-- A Oliver
+- admin
+- Arnau Oliver
 - L Ramio-Torrenta
-- BA Landman
-- X Llado
+- Bennett A Landman
+- Xavier Llado
 tags: []
 categories: []
 date: '2019-01-01'

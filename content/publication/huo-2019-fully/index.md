@@ -6,7 +6,7 @@ title: Fully automatic liver attenuation estimation combing CNN segmentation and
 subtitle: ''
 summary: ''
 authors:
-- Yuankai Huo
+- admin
 - James G Terry
 - Jiachen Wang
 - Sangeeta Nair
