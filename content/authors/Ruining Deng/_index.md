@@ -11,10 +11,10 @@ role: PhD student in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Personal Website
-  url: "https://hrlblab.github.io/people/"
+  url: "https://www.linkedin.com/in/ruining-deng/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Computer Science at Vanderbilt University, starting from January 2021. 
+bio: I am a Ph.D. student in Computer Science at Vanderbilt University, starting from January 2021.
 
 interests:
 - Medical Image Analysis
@@ -26,9 +26,9 @@ education:
   - course: MS in Electrical Engineering
     institution: Vanderbilt University
     year: 2021
-  - course: BS in Electrical Engineering
-    institution: xxx
-    year: xxx
+  - course: BS in Information Engineering
+    institution: China University of Mining and Technology, Beijing
+    year: 2019
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "r.deng@vanderbilt.edu"
@@ -42,4 +42,7 @@ user_groups:
 - Grad Students
 ---
 
-Please add a paragraph that introduces your self. For example, research interests, education background, personal hobbies, etc about 100-300 words.
+My name is Ruining Deng from Wuhan, China. Before joining Vanderbilt, I received my Bachelor's degree from China University of Mining and Technology, Beijing. I had an independent research experience at the University of Notre Dame in 2018 as a visiting student, focusing on radiology segmentation and cardiovascular signal processing.
+
+Currently, I am working with Dr. Huo on pathological image analysis in Deep learning, which explores clinical knowledge and assists diagnosis in a data-driven way. 
+

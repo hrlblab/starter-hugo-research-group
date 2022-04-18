@@ -1,6 +1,6 @@
 ---
 title: 'BEDs: Bagging Ensemble Deep Segmentation for Nucleus Segmentation with Testing Stage Stain Augmentation'
-summary: Xing Li, Haichun Yang, Jiaxin He, Aadarsh Jha, Agnes B. Fogo, Lee E. Wheless, Shilin Zhao, **Yuankai Huo** <br> ***ISBI 2021*** **(2021)** 
+summary: Xing Li, Haichun Yang, Jiaxin He, Aadarsh Jha, Agnes B. Fogo, Lee E. Wheless, Shilin Zhao, **Yuankai Huo** <br> ***ISBI*** **(2021)** 
 
 tags:
 - 2021

@@ -28,7 +28,15 @@ design:
 ## **Lab News**
 
 ### 2022
-+ 01/07/2021 One paper is accepted by ISBI 2022. Congrats to Kaifeng!
++ 03/28/2022 Lab member Ethan Nguyen won the prestigious 2022 Goldwater Scholars! <a href="https://goldwaterscholarship.gov/2022-scholars-press-release/">Official Announcement</a> 
++ 02/28/2022 Our paper is accepted by MIDL 2022, Congrats to Ruining!
++ 02/11/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2022, Congrats to Tianyuan & Ruining!
++ 02/05/2022 Dr. Huo will be the chair of MICCAI International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)
++ 02/05/2022 Dr. Huo will co-host 3rd International Workshop on Multiscale  Multimodal Medical Imaging (MMMI 2022)
++ 02/01/2022 Dr. Huo will serve MICCAI 2022 as an Area Chair. 
++ 01/29/2022 One abstract is accepted by ISBI 2022. Congrats to Haoju!
++ 01/25/2022 One paper is accepted by Journal of Medical Imaging. Congrats to Yuzhe!
++ 01/07/2022 One paper is accepted by ISBI 2022. Congrats to Kaifeng!
 ### 2021
 + 10/21/2021 One paper is accepted by IEEE Transactions on Medical Imaging.
 + 10/18/2021 Seven papers have been accepted by SPIE Medical Imaging 2021.
