@@ -5,7 +5,7 @@
 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 30  # Order that this section will appear.
+weight: 40  # Order that this section will appear.
 
 title: ""
 subtitle: ""
@@ -26,14 +26,25 @@ design:
 
 ---
 ## **Lab News**
-
+### 2023
++ 01/16/2023 Dr. Huo served as co-chair of High Performance Computing for Imaging (HPCI 2023) conference. 
++ 01/15/2023 Our paper is selected as HPCI 2023 Best Paper Award Runner Up! 
 ### 2022
++ 12/02/2022 Dr. Huo served as co-chair of Medical Imaging meets NeurIPS (Med-Neurips 2022) conference
++ 11/05/2022 One paper is accepted by HPCI 2023, Congrats to Zekun!
++ 10/30/2022 7 paper are accepted by SPIE 2023!
++ 09/30/2022 One paper is accepted by Science Advance.
++ 09/22/2022 Dr. Huo served as the chair of MICCAI International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)
++ 09/20/2022 Dr. Huo co-host 3rd International Workshop on Multiscale  Multimodal Medical Imaging (MMMI 2022)
++ 09/18/2022 Dr. Huo served MICCAI 2022 as an Area Chair. 
++ 06/03/2022 Two papers are accepted by MICCAI 2022.
++ 05/31/2022 One paper is accepted by Journal of Medical Imaging. Congrats to Tianyuan!
++ 05/31/2022 One paper is accepted by MIUA 2022, Congrats to Zheyu!
++ 05/04/2022 One paper is early accepted by MICCAI 2022, Congrats to Can!
 + 03/28/2022 Lab member Ethan Nguyen won the prestigious 2022 Goldwater Scholars! <a href="https://goldwaterscholarship.gov/2022-scholars-press-release/">Official Announcement</a> 
 + 02/28/2022 Our paper is accepted by MIDL 2022, Congrats to Ruining!
++ 02/13/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2022, Congrats to Can!
 + 02/11/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2022, Congrats to Tianyuan & Ruining!
-+ 02/05/2022 Dr. Huo will be the chair of MICCAI International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)
-+ 02/05/2022 Dr. Huo will co-host 3rd International Workshop on Multiscale  Multimodal Medical Imaging (MMMI 2022)
-+ 02/01/2022 Dr. Huo will serve MICCAI 2022 as an Area Chair. 
 + 01/29/2022 One abstract is accepted by ISBI 2022. Congrats to Haoju!
 + 01/25/2022 One paper is accepted by Journal of Medical Imaging. Congrats to Yuzhe!
 + 01/07/2022 One paper is accepted by ISBI 2022. Congrats to Kaifeng!
