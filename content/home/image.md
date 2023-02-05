@@ -25,7 +25,7 @@ design:
     image_size: contain
     text_color_light: false
   spacing:
-    padding: ["0px", "0", "0", "0"]
+    padding: ["240px", "0", "0", "0"]
 advanced:
   css_class: fit 
 ---
