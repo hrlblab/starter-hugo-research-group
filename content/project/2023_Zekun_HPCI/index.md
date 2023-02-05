@@ -1,10 +1,10 @@
 ---
 title: 'WearMask: Fast In-browser Face Mask Detection with Serverless Edge Computing for COVID-19'
-summary: Zekun Wang, Pengwei Wang, Peter C. Louis, Lee E. Wheless, **Yuankai Huo** <br> ***ArXiv*** **(2021)** 
+summary: Zekun Wang, Pengwei Wang, Peter C. Louis, Lee E. Wheless, **Yuankai Huo** <br> ***HPCI*** **(2023)** 
 
 tags:
-- 2021
-date: "2021-06-28T00:00:00Z"
+- 2023
+date: "2023-01-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://arxiv.org/abs/2101.00784"
