@@ -18,14 +18,14 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: laboverview.png
+    image: labintro.png
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: contain
     text_color_light: false
   spacing:
-    padding: ["260px", "0", "0", "0"]
+    padding: ["0px", "0", "0", "0"]
 advanced:
   css_class: fit 
 ---
