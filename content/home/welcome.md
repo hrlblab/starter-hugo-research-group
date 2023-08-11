@@ -26,12 +26,21 @@ design:
 
 ---
 ## **Lab News**
++ <span style="color:red"> Our lab have openings for motivated Ph.D. students. Please send your CV to Dr. Huo if you are interested in. </style> 
++ <span style="color:red"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
+
 ### 2023
+
++ 07/13/2023 Our lab has hosted the MIDL 2023 virtual events. Dr. Huo received the Best Area Chair Award.
++ 06/23/2023 Two papers are accepted by MICCAI 2023, Congrats to Peter and Ruining!
++ 06/08/2023 One paper is accepted by IEEE Journal of Biomedical and Health Informatics, Congrats to Peter!
++ 05/18/2023 Quan will do a summer internship at Merck.
++ 05/15/2023 Ruining and Cathy will do a summer internship at Roche.
 + 03/15/2023 <span style="color:blue"> Our lab leads a NIH RO1 grant in 3D digital pathology and spatial transcriptomics! Thanks NIH!</style> 
 + 03/14/2023 One paper is accepted by IEEE Transactions on Biomedical Engineering, Congrats to Ruining!
 + 03/09/2023 One paper is accepted by Progress in Biomedical Engineering, Congrats to Cathy!
 + 03/08/2023 One paper is accepted by International Journal of Remote Sensing, Congrats to Junlin and Jiachen!
-+ 03/03 2023 One paper is accepted by MIDL 2023, Congrats to Shunxing! See you at Nashville.
++ 03/03 2023 One paper is accepted by MIDL 2023, Congrats to Shunxing! See you at Nashville.</style> 
 + 02/28/2023 Dr. Huo serves as Area Chair of Medical Image Computing and Computer Assisted Intervention (MICCAI 2023).
 + 02/23/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2023, Congrats to Chenxi!
 + 02/23/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2023, Congrats to Tianyuan!
