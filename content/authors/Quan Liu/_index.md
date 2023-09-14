@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 I'm a 2nd-year Ph.D. student in Computer Science at Vanderbilt University supervised by Professor Yuankai Huo. I got my bacholar degree from Huazhong University. I spent my summer semester of 2016 as an exchange student at the Stanford University. I majored in Computer Engineering in Case Western Reserve University from 2018 to 2020.

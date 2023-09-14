@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 Tianyuan Yao is currently a PhD student in Computer Science and at Vanderbilt University. He is supervised by Prof. Yuankai Huo at HRLB Lab. Before that, he received his bachelor degree from Shandong University in 2019, with major in Communication Engineering and MS degree of Computer Science from Vanderbilt University in 2021.

@@ -36,7 +36,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Masters Students
 ---
 
 I am a second-year MS student in Data Science at Vanderbilt University, supervised by Prof. Yuankai Huo. My research interests include medical image analysis, deep learning, and Software Development.

@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 I'm currently a third-year Ph.D. student in Computer Science at Vanderbilt University, supervised by Prof. Yuankai Huo. My research interests include medical image analysis, deep learning, and data science.

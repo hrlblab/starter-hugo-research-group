@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 My name is Ruining Deng from Wuhan, China. Before joining Vanderbilt, I received my Bachelor's degree from China University of Mining and Technology, Beijing. I had an independent research experience at the University of Notre Dame in 2018 as a visiting student, focusing on radiology segmentation and cardiovascular signal processing.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiaxin (Nicole) He
+title: Margaret Alexander
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,25 +11,24 @@ role: Undergraduate student in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Personal Website
-  url: "https://www.linkedin.com/in/jiaxin-nicole-he-5914181b1"
+  url: "www.linkedin.com/in/margaret-alexander-19236922a"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an undergraduate student majoring in Computer Science and Mathematics at Vanderbilt University, starting from August 2019. 
+bio: I am an Undergraduate student in Computer Science and Mathematics at Vanderbilt University. 
 
 interests:
-- Deep Learning
-- Artificial Intelligence
-- Medical Image Analysis
-
+- Artifical Intelligence
+- Genomics and Transcriptomics
+- Spatial omics
 
 education:
   courses:
-  - course: BS in Computer science and mathematics
+  - course: BS in Computer Science
     institution: Vanderbilt University
-    year: 2023
+    year: 2020-2024
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jiaxin.he@vanderbilt.edu"
+email: "margaret.i.alexander@vanderbilt.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -40,4 +39,6 @@ user_groups:
 - Undergrad Students
 ---
 
-
+I'm currently an Undergraduate student in Computer Science and Mathematics at Vanderbilt University, supervised by Prof. Yuankai Huo. My research interests include artifical intelligence, genomics, transcriptomics, and spatial omics.
+ 
+Outside of research, I love fashion design, art, and music.

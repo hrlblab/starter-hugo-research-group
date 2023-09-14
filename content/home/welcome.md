@@ -30,8 +30,9 @@ design:
 + <span style="color:red"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
 
 ### 2023
-
-+ 07/13/2023 Our lab has hosted the MIDL 2023 virtual events. Dr. Huo received the Best Area Chair Award.
++ 09/10/2023 <span style="color:blue"> Our lab receives a grant support from NEH in next-generation archaeological mapping technology! Thanks NEH!</style> 
++ 08/23/2023 Three papers are accepted by different MICCAI 2023 workshops, Congrats to Tianyuan, Quan, and Cathy!
++ 07/13/2023 Dr. Huo received the MIDL 2023 Best Area Chair Award.
 + 06/23/2023 Two papers are accepted by MICCAI 2023, Congrats to Peter and Ruining!
 + 06/08/2023 One paper is accepted by IEEE Journal of Biomedical and Health Informatics, Congrats to Peter!
 + 05/18/2023 Quan will do a summer internship at Merck.

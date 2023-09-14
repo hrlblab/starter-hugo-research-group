@@ -36,7 +36,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- PhD Students
 ---
 
 I'm currently a first-year Ph.D. student in Computer Science at Vanderbilt University, supervised by Dr. Yuankai Huo and Dr. Anita Mahadevan-Jansen. My research interests include medical image analysis, deep learning, and data science. Before I joined Vanderbilt University, I received a B.S. in Mathematics from the University of Texas at Austin in 2023.
