@@ -26,10 +26,19 @@ design:
 
 ---
 ## **Lab News**
-+ <span style="color:red"> Our lab have openings for motivated Ph.D. students. Please send your CV to Dr. Huo if you are interested in. </style> 
++ <span style="color:red"> For Fall 2025 PhD applicants, I would suggest a semester reseasrch project with our lab. Please send Dr. Huo your CV if you are interested in. </li>
 + <span style="color:red"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
 
+### 2024
++ 02/26/2024 One paper is accepted by CVPR 2024, Congrats to Ruining!
++ 02/20/2024 Two papers are selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2024, Congrats to Ruining and Xueyuan!
++ 02/18/2024 One paper is accepted by Medical Image Analysis journal, Congrats to Ruining!
++ 02/02/2024 One paper is accepted by ISBI 2024, Congrats to Shunxing!
++ 01/20/2024 Dr. Huo co-chair the EI HPCI conference 2024, see you in Bay Area!
 ### 2023
++ 12/10/2023 One paper is accepted by Journal of Imaging Science and Technology, Congrats to Quan!
++ 12/05/2023 One paper is accepted by Nature Nanotechnology, Congrats to Hanyu and Quan!
++ 11/06/2023 One paper is accepted by Journal of Medical Imaging, Congrats to Tianyuan!
 + 09/10/2023 <span style="color:blue"> Our lab receives a grant support from NEH in next-generation archaeological mapping technology! Thanks NEH!</style> 
 + 08/23/2023 Three papers are accepted by different MICCAI 2023 workshops, Congrats to Tianyuan, Quan, and Cathy!
 + 07/13/2023 Dr. Huo received the MIDL 2023 Best Area Chair Award.
