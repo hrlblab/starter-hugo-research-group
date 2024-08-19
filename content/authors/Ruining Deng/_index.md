@@ -11,7 +11,7 @@ role: PhD student in Computer Science
 # Organizations/Affiliations
 organizations:
 - name: Personal Website
-  url: "https://www.linkedin.com/in/ruining-deng/"
+  url: "https://ddrrnn123.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. student in Computer Science at Vanderbilt University, starting from January 2021.

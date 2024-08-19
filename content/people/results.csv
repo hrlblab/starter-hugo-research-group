@@ -1,8 +1,11 @@
 Name,Degree,Program, Leave Lab, First Job Position, Notes
+Quan Liu,PhD,CS,2024, Advanced AI/ML Scientist at Accenture, HRLB PhD #001
+,,,,,
+Ho Hin (Peter) Lee,PhD,CS,2023, Research Scientist at Microsoft Research, Co-advise with Dr. Bennett Landman
 Yucheng Tang,PhD ,ECE,2022, Research Scientist at NVIDIA, Co-advise with Dr. Bennett Landman
 Riqiang Gao,PhD,CS,2022, Research Scientist at Siemens Healthineers, Co-advise with Dr. Bennett Landman
-Ho Hin (Peter) Lee,PhD,CS,2023, Research Scientist at Microsoft Research, Co-advise with Dr. Bennett Landman
 ,,,,,
+Xueyuan Li,MS,DSI,2024,Intern at Vanderbilt University, SPIE Best Paper Award Finalist
 Changzhe Liu,MS,ECE,2023,PhD student at Vanderbilt University,
 Yilin Ye,MS,DSI,2022,Data Scientist at Walmart Global Tech,
 Yuan Li,MS,DSI,2022,PhD student at Southern Methodist University,
@@ -20,12 +23,16 @@ Ye Chen,MS,ECE,2020,PhD student at Santa Clara University,
 Xuan Wang,MS,CS,2019,PhD student at Auburn University,
 Hyeonsoo Moon,MS,CS,2018,Machcine Learning Engineer at LG Research,
 ,,,,,
+Darwin Deng,UG,Intern,2024,UG student at Yale University,
+Margaret Alexander,UG,CS,2024,PhD student at St. Jude's Graduate School,
+Zuhayr Asad,UG,CS,2024,Intern at General Catalyst,
 Jiayuan Chen,UG,Intern,2023,MS student at Ohio State University,
 Peize Li,UG,CS, 2023,Software Engineer at Roblox,
 Yilin Liu,UG,CS,2023,MS student at Standford,
 Haoju Leng,UG,CS,2023,MS student at Carnegie Mellon University,
-Ethan Nguyen,UG,CS,2023,Machine Learning Intern at Capital One,Goldwater scholar
-Chenxi Dong,UG,CS,2022,,SPIE Best Paper Award Finalist
+Ethan Nguyen,UG,CS,2023,Software Engineer at Capital One,Goldwater scholar
+Chenxi Dong,UG,CS,2022,MS student at University of Pennsylvania,SPIE Best Paper Award Finalist
+Carter Caldwell,UG,CS,2022,Associate Software Engineer at iCapital,
 Zheyu Zhu,UG,CS,2022,Software Engineer at Amazon,
 Yuzhe Lu,UG,CS,2022,MS student at Carnegie Mellon University,CRA Award Honorable Mentions
 Raahul Natarrajan,UG,CS,2022,PhD student at Vanderbilt University,
@@ -35,10 +42,10 @@ Ololade Adetula,UG,Intern,2022,Aspirnaut™ Summer Research,
 Michael Knight,UG,CS,2021,Research Assistant at Vanderbilt University Medical Center,
 Yuxuan (Bill) Shi,UG,CS,2021, MS student at Columbia University,VUSRP scholar
 Aadarsh Jha,UG,CS,2021,Software Engineer at Microsoft,President of VandyHacks
-Jiaxin He,UG,CS,2021,,DSI fellow
+Jiaxin He,UG,CS,2021,MS student at UCSD,DSI fellow
 Yilin (Erika) Liu,UG,CS,2021,Software Engineer Intern at Tencent, DSI fellow
 Chang (Sunnie) Qu,UG,CS,2021,MS student at Cornell University,
-Jiawei Zhu,UG,CS,2021,,
+Jiawei Zhu,UG,CS,2021,MS student at Carnegie Mellon University,
 Yuxuan (Carl) Zhang,UG,CS,2021,,
 Zhengkai Xie,UG,CS,2021,MS student at Columbia University,
 Yunxi Xiong,UG,CS,2018,Software Engineer at Facebook,
@@ -47,6 +54,9 @@ Mengchu Chen,UG,CS,2018,Software Engineer at Facebook,
 Yuang Yao,UG,CS,2017,Software Engineer at Facebook,
 Meg Bobo,UG,EE,2017,Advisory Services Analyst at Optum,VISE fellow
 ,,,,,
+Victor Mulindwa,HS,Intern,2024,Vanderbilt SSMV program,
+Ku Moo,HS,Intern,2024,Aspirnaut™ Summer Research,
+Evelyn Prudenciano,HS,Intern,2024,Aspirnaut™ Summer Research,
 Nadine Thao,HS,Intern,2022,Aspirnaut™ Summer Research,
-Cam (Julia) Nguyen,HS,STEM,2021,,
+Cam (Julia) Nguyen,HS,STEM,2021,Undergraduate Student at Brown University,
 

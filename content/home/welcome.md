@@ -26,8 +26,10 @@ design:
 
 ---
 ## **Lab News**
-+ <span style="color:red"> For Fall 2025 PhD applicants, I would suggest a semester reseasrch project with our lab. Please send Dr. Huo your CV if you are interested in. </li>
-+ <span style="color:red"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
++ <span style="color:red"> We have launched MICCAI 2024 KPIs challenge: [<a href="https://sites.google.com/view/kpis2024" target="_blank">Link to KPIs challenge </a>]</li>
++ <span style="color:red"> We have launched MICCAI 2024 MOVI workshop: [<a href="https://sites.google.com/view/movi2024" target="_blank">Link to MOVI workshop </a>]</li>
++ <span style="color:green"> For Fall 2025 PhD applicants, I would suggest a semester reseasrch project with our lab. Please send Dr. Huo your CV if you are interested in. </li>
++ <span style="color:green"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
 
 ### 2024
 + 02/26/2024 One paper is accepted by CVPR 2024, Congrats to Ruining!

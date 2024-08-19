@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Quan Liu
+title: 2024-05 Quan Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student in Computer Science 
+role: First position - Advanced AI/ML Scientist @ Accenture 
 
 # Organizations/Affiliations
 organizations:
 - name: Personal Website
-  url: "https://hrlblab.github.io/people/"
+  url: "https://www.linkedin.com/in/quan-liu-426762172"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in Computer Science at Vanderbilt University, starting from August 2020. 
+bio: Dr. Quan Liu defended his PhD degree in Computer Science on May 8, 2024, with title "Efficient Representation Learning for Optical Image Analysis" 
 
 interests:
 - Medical Image Analysis
@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Vanderbilt University
+    year: 2024
   - course: MS in Computer Engineering
     institution: Case Western Reserve University
     year: 2020
@@ -39,9 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- PhD Alumni
 ---
 
-I'm a 2nd-year Ph.D. student in Computer Science at Vanderbilt University supervised by Professor Yuankai Huo. I got my bacholar degree from Huazhong University. I spent my summer semester of 2016 as an exchange student at the Stanford University. I majored in Computer Engineering in Case Western Reserve University from 2018 to 2020.
-
-My research interests are broadly in medical image analysis, deep learning methods, and artificial intelligence, with a current focus on self-supervised learning. 
+This thesis addresses the challenges of efficient representation learning across three crucial categories of optical images: microscopic, pathology, and meta-optic images.  Microscopic images, characterized by dense dynamic objects, often suffer from resource-intensive object annotations. To tackle this, we introduce a novel deep learning-based unsupervised sub-cellular microvilli segmentation method and propose an annotation-free video analysis paradigm. In the realm of medical optical images, we propose the SimTriplet approach, integrating GPU memory-efficient techniques with self-supervised learning to enhance computational efficiency and feature extraction. Moreover, we tackle the escalating computational demands by introducing a large convolution kernel design for LMNN models, reducing computational latency and energy consumption. We validate our approach through physical meta-material fabrication.

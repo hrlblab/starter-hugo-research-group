@@ -23,7 +23,7 @@ content:
   - Undergrad Students
   - Administration
   - Visitors
-  - Alumni
+  - PhD Alumni
 design:
   show_interests: false
   show_role: true
