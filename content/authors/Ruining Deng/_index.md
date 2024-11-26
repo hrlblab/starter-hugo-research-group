@@ -6,7 +6,7 @@ title: Ruining Deng
 superuser: false
 
 # Role/position
-role: PhD student in Computer Science 
+role: First position -  Instructor of Artificial Intelligence @ Weill Cornell Medicine 
 
 # Organizations/Affiliations
 organizations:
@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Vanderbilt University
+    year: 2024
   - course: MS in Electrical Engineering
     institution: Vanderbilt University
     year: 2021
@@ -39,7 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- PhD Alumni
 ---
 
 My name is Ruining Deng from Wuhan, China. Before joining Vanderbilt, I received my Bachelor's degree from China University of Mining and Technology, Beijing. I had an independent research experience at the University of Notre Dame in 2018 as a visiting student, focusing on radiology segmentation and cardiovascular signal processing.

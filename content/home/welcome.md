@@ -26,96 +26,115 @@ design:
 
 ---
 ## **Lab News**
++ <span style="color:blue"> Our third PhD student Cathy will join Meta as a scientist!</li>
++ <span style="color:blue"> Our second PhD student Ruining has joined Weill Cornell Medicine as an Instructor of Artificial Intelligence !</li>
++ <span style="color:blue"> Our first PhD student Quan has joined Accenture as a scientist (No. 211 in Fortune Global 500)!</li>
 + <span style="color:red"> We have launched MICCAI 2024 KPIs challenge: [<a href="https://sites.google.com/view/kpis2024" target="_blank">Link to KPIs challenge </a>]</li>
 + <span style="color:red"> We have launched MICCAI 2024 MOVI workshop: [<a href="https://sites.google.com/view/movi2024" target="_blank">Link to MOVI workshop </a>]</li>
-+ <span style="color:green"> For Fall 2025 PhD applicants, I would suggest a semester reseasrch project with our lab. Please send Dr. Huo your CV if you are interested in. </li>
 + <span style="color:green"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
 
 ### 2024
-+ 02/26/2024 One paper is accepted by CVPR 2024, Congrats to Ruining!
-+ 02/20/2024 Two papers are selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2024, Congrats to Ruining and Xueyuan!
-+ 02/18/2024 One paper is accepted by Medical Image Analysis journal, Congrats to Ruining!
-+ 02/02/2024 One paper is accepted by ISBI 2024, Congrats to Shunxing!
-+ 01/20/2024 Dr. Huo co-chair the EI HPCI conference 2024, see you in Bay Area!
++ 12/2024 Dr. Huo serves as Area Chair of 2025 IEEE International Symposium on Biomedical Imaging (ISBI 2024).
++ 11/2024 One paper is accepted by Journal of Imaging Science and Technology, Congrats to Quan!
++ 11/2024 Our paper has been selected as the recipient of the 2024 Charles E. Ives Journal Award! Thanks IS&T!
++ 11/2024 Our lab receives a grant support from NIH on early lung cancer detection in people living with HIV! Thanks NIH!
++ 11/2024 5 papers are accepted by Electronic Imaging (EI) 2025, Congrats to everyone!
++ 10/2024 15 papers are accepted by SPIE Medical Imaging 2025, Congrats to everyone!
++ 10/2024 One paper is accepted by IEEE BHI 2024, Congrats to Cathy!
++ 10/2024 Dr. Huo serves as Area Chair of Medical Image Computing and Computer Assisted Intervention (MICCAI 2024).
++ 08/2024 Our lab leads The Kidney Precision Medicine Project (KPMP) Glue Grants for 3D spatial transcriptomics! Thanks KPMP!
++ 07/2024 Our lab receives a grant support from NSF in large-scale archaeological fundation modal! Thanks NSF!
++ 07/2024 One paper is accepted by MICCAI CDMRI workshop, Congrats to Tianyuan!
++ 07/2024 One paper is accepted by MICCAI 2024, Congrats to Ruining!
++ 06/2024 Dr. Huo receives The Early Career Achievement Award from The Society for Imaging Informatics in Medicine (SIIM)!
++ 04/2024 Our lab receives The National Artificial Intelligence Research Resource (NAIRR) Pilot Award for amazing computational resource!
++ 04/2024 One paper is accepted by SPIE Optics+Photonics 2024, Congrats to Marilyn!
++ 03/2024 One paper is accepted by ISBI 2024, Congrats to Shunxing!
++ 02/2024 Dr. Huo receives The Kidney Precision Medicine Project (KPMP) Travel Grants to present out work during KPMP annual meeting at DC!
++ 02/2024 One paper is accepted by CVPR 2024, Congrats to Ruining!
++ 02/2024 Two papers are selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2024, Congrats to Ruining and Xueyuan!
++ 02/2024 One paper is accepted by Medical Image Analysis journal, Congrats to Ruining!
++ 02/2024 One paper is accepted by ISBI 2024, Congrats to Shunxing!
++ 01/2024 Dr. Huo co-chair the EI HPCI conference 2024, see you in Bay Area!
 ### 2023
-+ 12/10/2023 One paper is accepted by Journal of Imaging Science and Technology, Congrats to Quan!
-+ 12/05/2023 One paper is accepted by Nature Nanotechnology, Congrats to Hanyu and Quan!
-+ 11/06/2023 One paper is accepted by Journal of Medical Imaging, Congrats to Tianyuan!
-+ 09/10/2023 <span style="color:blue"> Our lab receives a grant support from NEH in next-generation archaeological mapping technology! Thanks NEH!</style> 
-+ 08/23/2023 Three papers are accepted by different MICCAI 2023 workshops, Congrats to Tianyuan, Quan, and Cathy!
-+ 07/13/2023 Dr. Huo received the MIDL 2023 Best Area Chair Award.
-+ 06/23/2023 Two papers are accepted by MICCAI 2023, Congrats to Peter and Ruining!
-+ 06/08/2023 One paper is accepted by IEEE Journal of Biomedical and Health Informatics, Congrats to Peter!
-+ 05/18/2023 Quan will do a summer internship at Merck.
-+ 05/15/2023 Ruining and Cathy will do a summer internship at Roche.
-+ 03/15/2023 <span style="color:blue"> Our lab leads a NIH RO1 grant in 3D digital pathology and spatial transcriptomics! Thanks NIH!</style> 
-+ 03/14/2023 One paper is accepted by IEEE Transactions on Biomedical Engineering, Congrats to Ruining!
-+ 03/09/2023 One paper is accepted by Progress in Biomedical Engineering, Congrats to Cathy!
-+ 03/08/2023 One paper is accepted by International Journal of Remote Sensing, Congrats to Junlin and Jiachen!
-+ 03/03 2023 One paper is accepted by MIDL 2023, Congrats to Shunxing! See you at Nashville.</style> 
-+ 02/28/2023 Dr. Huo serves as Area Chair of Medical Image Computing and Computer Assisted Intervention (MICCAI 2023).
-+ 02/23/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2023, Congrats to Chenxi!
-+ 02/23/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2023, Congrats to Tianyuan!
-+ 02/02/2023 <span style="color:blue"> Our lab receives a grant support from DoD in deep phenotyping in digital pathology! Thanks DoD!</style> 
-+ 01/16/2023 Dr. Huo serves as co-chair of High Performance Computing for Imaging (HPCI 2023) conference. 
-+ 01/15/2023 Our paper is selected as HPCI 2023 Best Paper Award Runner Up! 
++ 12/2023 One paper is accepted by Journal of Imaging Science and Technology, Congrats to Quan!
++ 12/2023 One paper is accepted by Nature Nanotechnology, Congrats to Hanyu and Quan!
++ 11/2023 One paper is accepted by Journal of Medical Imaging, Congrats to Tianyuan!
++ 09/2023 Our lab receives a grant support from NEH in next-generation archaeological mapping technology! Thanks NEH! 
++ 08/2023 Three papers are accepted by different MICCAI 2023 workshops, Congrats to Tianyuan, Quan, and Cathy!
++ 07/2023 Dr. Huo received the MIDL 2023 Best Area Chair Award.
++ 06/2023 Two papers are accepted by MICCAI 2023, Congrats to Peter and Ruining!
++ 06/2023 One paper is accepted by IEEE Journal of Biomedical and Health Informatics, Congrats to Peter!
++ 05/2023 Quan will do a summer internship at Merck.
++ 05/2023 Ruining and Cathy will do a summer internship at Roche.
++ 03/2023 Our lab leads a NIH RO1 grant in 3D digital pathology and spatial transcriptomics! Thanks NIH! 
++ 03/2023 One paper is accepted by IEEE Transactions on Biomedical Engineering, Congrats to Ruining!
++ 03/2023 One paper is accepted by Progress in Biomedical Engineering, Congrats to Cathy!
++ 03/2023 One paper is accepted by International Journal of Remote Sensing, Congrats to Junlin and Jiachen!
++ 03/2023 One paper is accepted by MIDL 2023, Congrats to Shunxing! See you at Nashville.</style> 
++ 02/2023 Dr. Huo serves as Area Chair of Medical Image Computing and Computer Assisted Intervention (MICCAI 2023).
++ 02/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2023, Congrats to Chenxi!
++ 02/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2023, Congrats to Tianyuan!
++ 02/2023 Our lab receives a grant support from DoD in deep phenotyping in digital pathology! Thanks DoD! 
++ 01/2023 Dr. Huo serves as co-chair of High Performance Computing for Imaging (HPCI 2023) conference. 
++ 01/2023 Our paper is selected as HPCI 2023 Best Paper Award Runner Up! 
 ### 2022
-+ 12/02/2022 Dr. Huo served as co-chair of Medical Imaging meets NeurIPS (Med-Neurips 2022) conference.
-+ 11/05/2022 One paper is accepted by HPCI 2023, Congrats to Zekun!
-+ 11/01/2022 Dr. Huo served as the virtual char of Medical Imaging with Deep Learning (MIDL 2023) conference.
-+ 10/30/2022 7 paper are accepted by SPIE 2023!
-+ 09/30/2022 One paper is accepted by Science Advance.
-+ 09/22/2022 Dr. Huo served as the chair of MICCAI International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)
-+ 09/20/2022 Dr. Huo co-host 3rd International Workshop on Multiscale  Multimodal Medical Imaging (MMMI 2022)
-+ 09/18/2022 Dr. Huo served MICCAI 2022 as an Area Chair. 
-+ 06/03/2022 Two papers are accepted by MICCAI 2022.
-+ 05/31/2022 One paper is accepted by Journal of Medical Imaging. Congrats to Tianyuan!
-+ 05/31/2022 One paper is accepted by MIUA 2022, Congrats to Zheyu!
-+ 05/04/2022 One paper is early accepted by MICCAI 2022, Congrats to Can!
-+ 04/30/2022 <span style="color:blue"> Our lab receives a grant support from industry! Thanks IBM and Merative!</style> 
-+ 03/28/2022 Lab member Ethan Nguyen won the prestigious 2022 Goldwater Scholars! <a href="https://goldwaterscholarship.gov/2022-scholars-press-release/">Official Announcement</a> 
-+ 02/28/2022 Our paper is accepted by MIDL 2022, Congrats to Ruining!
-+ 02/13/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2022, Congrats to Can!
-+ 02/11/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2022, Congrats to Tianyuan & Ruining!
-+ 01/29/2022 One abstract is accepted by ISBI 2022. Congrats to Haoju!
-+ 01/25/2022 One paper is accepted by Journal of Medical Imaging. Congrats to Yuzhe!
-+ 01/07/2022 One paper is accepted by ISBI 2022. Congrats to Kaifeng!
++ 12/2022 Dr. Huo served as co-chair of Medical Imaging meets NeurIPS (Med-Neurips 2022) conference.
++ 11/2022 One paper is accepted by HPCI 2023, Congrats to Zekun!
++ 11/2022 Dr. Huo served as the virtual char of Medical Imaging with Deep Learning (MIDL 2023) conference.
++ 10/2022 7 paper are accepted by SPIE 2023!
++ 09/2022 One paper is accepted by Science Advance.
++ 09/2022 Dr. Huo served as the chair of MICCAI International Workshop on Medical Optical Imaging and Virtual Microscopy Image Analysis (MOVI)
++ 09/2022 Dr. Huo co-host 3rd International Workshop on Multiscale  Multimodal Medical Imaging (MMMI 2022)
++ 09/2022 Dr. Huo served MICCAI 2022 as an Area Chair. 
++ 06/2022 Two papers are accepted by MICCAI 2022.
++ 05/2022 One paper is accepted by Journal of Medical Imaging. Congrats to Tianyuan!
++ 05/2022 One paper is accepted by MIUA 2022, Congrats to Zheyu!
++ 05/2022 One paper is early accepted by MICCAI 2022, Congrats to Can!
++ 04/2022 Our lab receives a grant support from industry! Thanks IBM and Merative! 
++ 03/2022 Lab member Ethan Nguyen won the prestigious 2022 Goldwater Scholars! <a href="https://goldwaterscholarship.gov/2022-scholars-press-release/">Official Announcement</a> 
++ 02/2022 Our paper is accepted by MIDL 2022, Congrats to Ruining!
++ 02/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2022, Congrats to Can!
++ 02/2022 Our paper is selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2022, Congrats to Tianyuan & Ruining!
++ 01/2022 One abstract is accepted by ISBI 2022. Congrats to Haoju!
++ 01/2022 One paper is accepted by Journal of Medical Imaging. Congrats to Yuzhe!
++ 01/2022 One paper is accepted by ISBI 2022. Congrats to Kaifeng!
 ### 2021
-+ 10/21/2021 One paper is accepted by IEEE Transactions on Medical Imaging.
-+ 10/18/2021 Seven papers have been accepted by SPIE Medical Imaging 2021.
-+ 10/17/2021 Dr. Huo co-chair the ICCV CVAMD workshop.
-+ 09/08/2021 Dr. Huo is invited to present at IEEE EMBS Webinars [Recorded Video].
-+ 08/25/2021 One paper is accepted by MICCAI COMPAY 2021 Workshop.
-+ 08/08/2021 One paper is accepted by Machine Learning in Medical Imaging Workshop.
-+ 08/02/2021 One paper is accepted by MICCAI Workshop on Data Aug, Labeling, & Imperfections.
-+ 07/22/2021 One paper is accepted by  MICCAI Deep Generative Models Workshop.
-+ 06/13/2021 Four papers are accepted by MICCAI 2021.
-+ 05/01/2021 <span style="color:blue"> Our lab receives a grant support from ONR in Optical Neural Network. Thanks ONR!</style>  
-+ 05/15/2021 One paper is accepted by Computers in Biology and Medicine.
-+ 03/21/2021 One paper is accepted by IEEE Transactions on Medical Imaging.
-+ 03/20/2021 One paper is accepted by Medical Image Analysis.
-+ 02/02/2021 One US patent (US10910099B2) is officially granted for multi-task learning.
-+ 01/13/2021 One review journal paper is accepted by Kidney International.
-+ 01/10/2021 Two papers are accepted by ISBI 2021.
++ 10/2021 One paper is accepted by IEEE Transactions on Medical Imaging.
++ 10/2021 Seven papers have been accepted by SPIE Medical Imaging 2021.
++ 10/2021 Dr. Huo co-chair the ICCV CVAMD workshop.
++ 09/2021 Dr. Huo is invited to present at IEEE EMBS Webinars [Recorded Video].
++ 08/2021 One paper is accepted by MICCAI COMPAY 2021 Workshop.
++ 08/2021 One paper is accepted by Machine Learning in Medical Imaging Workshop.
++ 08/2021 One paper is accepted by MICCAI Workshop on Data Aug, Labeling, & Imperfections.
++ 07/2021 One paper is accepted by  MICCAI Deep Generative Models Workshop.
++ 06/2021 Four papers are accepted by MICCAI 2021.
++ 05/2021 <span style="color:blue"> Our lab receives a grant support from ONR in Optical Neural Network. Thanks ONR!</style>  
++ 05/2021 One paper is accepted by Computers in Biology and Medicine.
++ 03/2021 One paper is accepted by IEEE Transactions on Medical Imaging.
++ 03/2021 One paper is accepted by Medical Image Analysis.
++ 02/2021 One US patent (US10910099B2) is officially granted for multi-task learning.
++ 01/2021 One review journal paper is accepted by Kidney International.
++ 01/2021 Two papers are accepted by ISBI 2021.
 
 ### 2020
-+ 12/15/2020 One paper is accepted by Journal of Medical Imaging.
-+ 10/15/2020 Four papers are accepted by SPIE medical imaging 2021.
-+ 09/01/2020 Welcome Carter Caldwell, Jennifer Franklin, Ethan Nguyen join the lab!
-+ 08/23/2020 Welcome Yuxuan Zhang, Zhengkai Xie join the lab!
-+ 08/21/2020 Welcome Quan Liu join the lab!
-+ 08/15/2020 Two abstracts are accepted by RSNA 2020.
-+ 08/14/2020 One abstract is accepted as oral by ASN Anual Meeting (Kidney Week) 2020.
-+ 07/24/2020 One paper is accepted by MICCAI-LABEL 2020.
-+ 07/02/2020 Two papers are accepted by ECCV2020.
-+ 06/22/2020 Three papers are accepted by MICCAI2020.
-+ 05/13/2020 Congrats to Yuzhe Lu for DSI summer intern!
-+ 04/25/2020 Welcome Can Luo, Jiaxin He join the lab!
-+ 02/01/2020 Welcome Ruining Deng, Ye Chen join the lab!
-+ 01/31/2020 Welcome Yuzhe Lu, Aadarsh Jha join the lab!
-+ 01/30/2020 Welcome Hanchu Shen, Zheyu Zhu to join the lab!
-+ 01/06/2020 The HRLB Lab is established by Dr. Yuankai Huo.
-+ 01/01/2020 Book chapter is published on Handbook of MICCAI
++ 12/2020 One paper is accepted by Journal of Medical Imaging.
++ 10/2020 Four papers are accepted by SPIE medical imaging 2021.
++ 09/2020 Welcome Carter Caldwell, Jennifer Franklin, Ethan Nguyen join the lab!
++ 08/2020 Welcome Yuxuan Zhang, Zhengkai Xie join the lab!
++ 08/2020 Welcome Quan Liu join the lab!
++ 08/2020 Two abstracts are accepted by RSNA 2020.
++ 08/2020 One abstract is accepted as oral by ASN Anual Meeting (Kidney Week) 2020.
++ 07/2020 One paper is accepted by MICCAI-LABEL 2020.
++ 07/2020 Two papers are accepted by ECCV2020.
++ 06/2020 Three papers are accepted by MICCAI2020.
++ 05/2020 Congrats to Yuzhe Lu for DSI summer intern!
++ 04/2020 Welcome Can Luo, Jiaxin He join the lab!
++ 02/2020 Welcome Ruining Deng, Ye Chen join the lab!
++ 01/2020 Welcome Yuzhe Lu, Aadarsh Jha join the lab!
++ 01/2020 Welcome Hanchu Shen, Zheyu Zhu to join the lab!
++ 01/2020 The HRLB Lab is established by Dr. Yuankai Huo.
++ 01/2020 Book chapter is published on Handbook of MICCAI
 
 ### Before 2020
 + 11/17/2019 One paper is accepted by the Journal of Medical Imaging.
