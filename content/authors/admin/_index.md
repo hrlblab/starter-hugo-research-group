@@ -6,7 +6,7 @@ title: Yuankai Huo
 superuser: true
 
 # Role/position
-role: Assistant Professor of Computer Science 
+role: Assistant Professor of Computer Science, Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,12 @@ organizations:
   url: "https://engineering.vanderbilt.edu/bio/yuankai-huo"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include large-scale medical image analysis, data science, and machine learning.
+bio: My research interests include large-scale medical computer vision, data science, and machine learning.
 
 interests:
-- Medical Image Computing
+- Medical Computer Vision
 - Artificial Intelligence
-- Big Data
+- Ultra-high Resolution Data Analysis
 
 education:
   courses:
@@ -71,5 +71,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Dr. Yuankai Huo is an Assistant Professor in Computer Science and Director of the Biomedical Data Representation and Learning Lab (HRLB Lab) at Vanderbilt University, TN, USA. Before joining Vanderbilt, he had worked as a Senior Research Scientist at PAII Labs. Since 2020, he has been a faculty member at the Department of Computer Science, Department of Electrical and Computer Engineering, and Data Science Institute, Vanderbilt University. His continuing efforts focus on the translational imaging research that integrating large-scale biomedical image data (microscopy images, digital pathology images, radiology images) with clinical data (genetics, phenotypes, electrical medical records (EMR), biomarkers etc.) for the better health care.
-
+Dr. Yuankai Huo serves as an Assistant Professor of Computer Science, and Electrical and Computer Engineering, as well as the Director of the Biomedical Data Representation and Learning Lab (HRLB Lab) at Vanderbilt University. Additionally, he is an Assistant Professor of Pathology, Microbiology, and Immunology at Vanderbilt University Medical Center. Dr. Huo's current research specializes in high-dimensional multi-modal data analysis, computational pathology and radiology, and medical computer vision. Dr. Huo has received prestigious awards, including the Charles E. Ives Journal Award from the Society for Imaging Science and Technology,  the Early Career Achievement Award from the Society for Imaging Informatics in Medicine, and the NAIRR Pilot award from NSF. He is a Senior Member of IEEE and a lifetime member of SPIE, contributing as an organization committee member and area chair for leading medical image analysis conferences such as MICCAI, MIDL, and ISBI. Dr. Huo's ongoing efforts are dedicated to advancing next-generation AI algorithms for ultra-high-resolution imaging and non-imaging data analysis.

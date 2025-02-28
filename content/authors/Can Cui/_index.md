@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Can(Cathy) Cui
+title: 2024-12 Can(Cathy) Cui
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student in Computer Science 
+role: First position -  Research Scientist @ Meta 
 
 # Organizations/Affiliations
 organizations:
 - name: Personal Website
-  url: "https://hrlblab.github.io/people/"
+  url: "https://www.linkedin.com/in/can-cathy-cui-a980bb13b/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a third-year PhD student in Computer Science at Vanderbilt University, starting from September 2019. 
+bio: I was a PhD student in Computer Science at Vanderbilt University, starting from September 2019. 
 
 interests:
 - Medical Image Analysis
@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: Vanderbilt University
+    year: 2024
   - course: MS in Electrical and Computer Engineering
     institution: University of Michigan, Ann Arbor
     year: 2017-2019
@@ -39,7 +42,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- PhD Alumni
 ---
 
 I'm currently a third-year Ph.D. student in Computer Science at Vanderbilt University, supervised by Prof. Yuankai Huo. My research interests include medical image analysis, deep learning, and data science.

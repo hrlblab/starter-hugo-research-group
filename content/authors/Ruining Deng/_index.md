@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruining Deng
+title: 2024-11 Ruining Deng
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ organizations:
   url: "https://ddrrnn123.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Computer Science at Vanderbilt University, starting from January 2021.
+bio: I was a Ph.D. student in Computer Science at Vanderbilt University, starting from January 2021.
 
 interests:
 - Medical Image Analysis

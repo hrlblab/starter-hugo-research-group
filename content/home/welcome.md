@@ -26,14 +26,21 @@ design:
 
 ---
 ## **Lab News**
-+ <span style="color:blue"> Our third PhD student Cathy will join Meta as a scientist!</li>
++ <span style="color:blue"> Our third PhD student Cathy has join Meta as a Research Scientist!</li>
 + <span style="color:blue"> Our second PhD student Ruining has joined Weill Cornell Medicine as an Instructor of Artificial Intelligence !</li>
-+ <span style="color:blue"> Our first PhD student Quan has joined Accenture as a scientist (No. 211 in Fortune Global 500)!</li>
++ <span style="color:blue"> Our first PhD student Quan has joined Accenture as a Research Scientist and LLM Arch Manager (No. 211 in Fortune Global 500)!</li>
 + <span style="color:red"> We have launched MICCAI 2024 KPIs challenge: [<a href="https://sites.google.com/view/kpis2024" target="_blank">Link to KPIs challenge </a>]</li>
 + <span style="color:red"> We have launched MICCAI 2024 MOVI workshop: [<a href="https://sites.google.com/view/movi2024" target="_blank">Link to MOVI workshop </a>]</li>
 + <span style="color:green"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
 
 ### 2024
++ 02/2024 Two papers are selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2025, Congrats to Muyang and Yitian!
++ 02/2025 Dr. Huo serves as Associate Editor for the IEEE EMBS Conference Editorial Board.
++ 02/2025 Our paper is accepted by Journal of Pathology Informatics, Congrats to Jialin!
++ 02/2025 Our paper is accepted by Machine Learning for Biomedical Imaging, Congrats to Juming!
++ 02/2025 Our paper is accepted by IEEE Geoscience and Remote Sensing Magazine, Congrats to Siqi! 
++ 01/2025 Our paper is accepted by Magnetic Resonance Imaging journal, Congrats to Tianyuan! 
++ 01/2025 Dr. Huo serves as Area Chair of 2025 Medical Imaging with Deep Learning (MIDL 2025).
 + 12/2024 Dr. Huo serves as Area Chair of 2025 IEEE International Symposium on Biomedical Imaging (ISBI 2024).
 + 11/2024 One paper is accepted by Journal of Imaging Science and Technology, Congrats to Quan!
 + 11/2024 Our paper has been selected as the recipient of the 2024 Charles E. Ives Journal Award! Thanks IS&T!
