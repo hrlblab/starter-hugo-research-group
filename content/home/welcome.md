@@ -34,7 +34,9 @@ design:
 + <span style="color:green"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
 
 ### 2024
-+ 02/2024 Two papers are selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2025, Congrats to Muyang and Yitian!
++ 03/2025 Two papers are accepted by MIDL 2025, Congrats to Junchao and Ruining!
++ 02/2025 One paper is accepted by CVPR 2025, Congrats to Junchao!
++ 02/2025 Two papers are selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2025, Congrats to Muyang and Yitian!
 + 02/2025 Dr. Huo serves as Associate Editor for the IEEE EMBS Conference Editorial Board.
 + 02/2025 Our paper is accepted by Journal of Pathology Informatics, Congrats to Jialin!
 + 02/2025 Our paper is accepted by Machine Learning for Biomedical Imaging, Congrats to Juming!
