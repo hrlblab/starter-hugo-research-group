@@ -39,7 +39,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Masters Students
+- PhD Students
 ---
 I’m currently a first-year MS student in Electrical and Computer Engineering at Vanderbilt University. My research interests include medical image processing, computer vision and machine learning.
 
