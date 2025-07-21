@@ -34,7 +34,7 @@ education:
     year: 2013-2017
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "can.cui.1@vanderbilt.edu"
+email: "cancuimail@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

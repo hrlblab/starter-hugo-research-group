@@ -33,7 +33,12 @@ design:
 + <span style="color:red"> We have launched MICCAI 2024 MOVI workshop: [<a href="https://sites.google.com/view/movi2024" target="_blank">Link to MOVI workshop </a>]</li>
 + <span style="color:green"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
 
-### 2024
+### 2025
++ 07/2025 One paper is accepted by Meta Radiology, Congrats to Zhengyi!
++ 07/2025 One paper is accepted by Journal of Medical Imaging, Congrats to Juming!
++ 07/2025 Our lab leads a NSF CPS-medium grant in developing an intelligent cyber microscopy system! Thanks NSF!
++ 07/2025 One paper is accepted by Journal of Medical Imaging, Congrats to Lining!
++ 07/2025 Dr. Huo serves as Area Chair of MIDL 2025.
 + 03/2025 Two papers are accepted by MIDL 2025, Congrats to Junchao and Ruining!
 + 02/2025 One paper is accepted by CVPR 2025, Congrats to Junchao!
 + 02/2025 Two papers are selected as the finalist of Robert F. Wagner Award in SPIE Medical Imaging 2025, Congrats to Muyang and Yitian!
@@ -43,6 +48,8 @@ design:
 + 02/2025 Our paper is accepted by IEEE Geoscience and Remote Sensing Magazine, Congrats to Siqi! 
 + 01/2025 Our paper is accepted by Magnetic Resonance Imaging journal, Congrats to Tianyuan! 
 + 01/2025 Dr. Huo serves as Area Chair of 2025 Medical Imaging with Deep Learning (MIDL 2025).
+ 
+### 2024
 + 12/2024 Dr. Huo serves as Area Chair of 2025 IEEE International Symposium on Biomedical Imaging (ISBI 2024).
 + 11/2024 One paper is accepted by Journal of Imaging Science and Technology, Congrats to Quan!
 + 11/2024 Our paper has been selected as the recipient of the 2024 Charles E. Ives Journal Award! Thanks IS&T!

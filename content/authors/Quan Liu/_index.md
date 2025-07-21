@@ -34,7 +34,7 @@ education:
     year: 2018
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "quan.liu@vanderbilt.edu"
+email: "iamliuquan@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
