@@ -26,13 +26,13 @@ design:
 
 ---
 ## **Lab News**
++ <span style="color:green"> We have launched "OpenBioEdge" Project: [<a href="https://sites.google.com/view/openbioedge" target="_blank">Link to the OpenBioEdge project</a>]</li>
 + <span style="color:blue"> Our third PhD student Cathy has join Meta as a Research Scientist!</li>
 + <span style="color:blue"> Our second PhD student Ruining has joined Weill Cornell Medicine as an Instructor of Artificial Intelligence !</li>
 + <span style="color:blue"> Our first PhD student Quan has joined Accenture as a Research Scientist and LLM Arch Manager (No. 211 in Fortune Global 500)!</li>
 + <span style="color:red"> We have launched MICCAI 2024 KPIs challenge: [<a href="https://sites.google.com/view/kpis2024" target="_blank">Link to KPIs challenge </a>]</li>
 + <span style="color:red"> We have launched MICCAI 2024 MOVI workshop: [<a href="https://sites.google.com/view/movi2024" target="_blank">Link to MOVI workshop </a>]</li>
-+ <span style="color:green"> We have launched "Democrat Imaging AI" Project: [<a href="https://facemask-detection.com/" target="_blank">Link to the serverless edge-computing demo</a>]</li>
-
++ If you are interested in joining the lab as a PhD student, please email me your CV. Details <a href="https://docs.google.com/document/d/1HP6Us2me6Wt_r2HfSGppJ10qYZdaaetBLK9wISf6BwQ/edit?usp=sharing" target="_blank">Link </a>
 ### 2025
 + 07/2025 One paper is accepted by Meta Radiology, Congrats to Zhengyi!
 + 07/2025 One paper is accepted by Journal of Medical Imaging, Congrats to Juming!
